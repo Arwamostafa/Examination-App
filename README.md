@@ -1,6 +1,6 @@
 A desktop‑console application that demonstrates advanced **Object‑Oriented Programming (OOP)** in C# by letting instructors design and run timed exams (Final or Practical) composed of multiple‑choice (MCQ) and True/False questions.
 
-## ✨ Key Features
+##  Key Features
 | Category | Details |
 |----------|---------|
 | Exam Builder | • Choose **Final** or **Practical** mode<br>• Set total time (mm:ss)<br>• Pick any mix of MCQ & T/F questions<br>• Assign mark & correct answer per question |
